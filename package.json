@@ -1,0 +1,22 @@
+{
+  "name": "expensetracker",
+  "version": "1.0.0",
+  "description": "simple expense tracker application to manage your finances.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soynikolas/Expense-Tracker.git"
+  },
+  "author": "Nicolás Peña",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soynikolas/Expense-Tracker/issues"
+  },
+  "homepage": "https://github.com/soynikolas/Expense-Tracker#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
